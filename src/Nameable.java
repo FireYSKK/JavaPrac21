@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public interface Nameable {
+public interface Nameable {
+    String getName();
+    void setName(String name);
 }
